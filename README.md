@@ -3,7 +3,7 @@
 
 Please note that this project was developed as part of a formal, collaborative academic program with industry partners. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my technical role in its development and testing.
 
-## 1. High-Level Summary
+## 1. Summary
 
 This project is a prototype for an "Intelligent Book Marketing Copywriting System," designed to bridge the gap between authors, publishers, and consumers.
 
