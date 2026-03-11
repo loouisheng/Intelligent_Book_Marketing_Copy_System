@@ -5,9 +5,7 @@ Please note that this project was developed as part of a formal, collaborative a
 
 ## 1. Summary
 
-This project is a prototype for an "Intelligent Book Marketing Copywriting System," designed to bridge the gap between authors, publishers, and consumers.
-
-The system leverages advanced AI prompting techniques, specifically Tree-of-Thoughts (ToT), to move beyond generic summaries. It aims to generate creative, emotionally resonant, and market-aware copywriting that effectively communicates a book's core value and enhances its connection with the target audience.
+I developed an "Intelligent Book Marketing Copywriting System" in collaboration with Yuan-Liou Publishing. I used Tree-of-Thought prompting technique, integrating Swales’ Move Theory to automate the generation of structurally persuasive copy. By implementing a dual-evaluation loop—combining LLM self-correction with an XGBoost-based predictive model—the system generates high-conversion marketing content that aligns with both creative excellence and data-driven marketability.
 
 ## 2. Context & Objective
 
