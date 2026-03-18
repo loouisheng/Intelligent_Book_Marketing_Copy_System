@@ -3,11 +3,11 @@
 
 Please note that this project was developed as part of a formal, collaborative academic program with industry partners. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my technical role in its development and testing.
 
-## 1. Summary
+## Summary
 
 I developed an "Intelligent Book Marketing Copywriting System" in collaboration with Yuan-Liou Publishing. I used Tree-of-Thought prompting technique, integrating Swales’ Move Theory to automate the generation of structurally persuasive copy. By implementing a dual-evaluation loop—combining LLM self-correction with an XGBoost-based predictive model—the system generates high-conversion marketing content that aligns with both creative excellence and data-driven marketability.
 
-## 2. Context & Objective
+## Context & Objective
 
 * **Context:** This project was a key component of the "Digital Humanities Interdisciplinary Talent and Smart Leadership Program," developed in collaboration with publishing industry partners (e.g., Yuan-Liou Publishing Co.).
 
@@ -21,7 +21,7 @@ I developed an "Intelligent Book Marketing Copywriting System" in collaboration 
     
     * Strengthening the brand story and its connection with consumers.
 
-## 3. My Role
+## My Role
 
 As the primary developer and tester for this prototype, I was responsible for implementing the core system and validating its complex AI workflow. My key contributions include:
 
@@ -33,7 +33,7 @@ As the primary developer and tester for this prototype, I was responsible for im
 
 * **Testing & Validation:** Conducted tests on the system's output, comparing the AI-generated copy against linguistic structures (Swales' "move" theory) and expert criteria.
 
-## 4. System Architecture & Flow
+## System Architecture & Flow
 
 The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framework, which mimics a human's deliberate creative process of drafting, evaluating, and refining ideas.
 
@@ -73,7 +73,7 @@ The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framew
 
 * **Output (Final Marketing Copy):** The system outputs a highly refined, structurally sound, and market-tested piece of marketing copy.
 
-## 5. Key Highlights
+## Key Highlights
 
 * **ToT Framework:** This is the project's main highlight. Instead of basic prompting, this system uses a deliberate, branching logic (generate, evaluate, select) to achieve superior creative and strategic output.
 
@@ -83,7 +83,7 @@ The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framew
 
 * **Industry Collaboration:** This prototype was designed in direct collaboration with publishing experts, ensuring its output is tailored to real-world industry needs.
 
-## 6. Technology Stack 
+## Technology Stack 
 
 * **Core Models:** LLMs
 
