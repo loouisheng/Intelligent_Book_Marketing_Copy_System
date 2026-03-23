@@ -1,11 +1,4 @@
 # Intelligent Book Marketing Copywriting System
-**A Note on This Repository**
-
-Please note that this project was developed as part of a formal, collaborative academic program with industry partners. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my technical role in its development and testing.
-
-## Summary
-
-I developed an "Intelligent Book Marketing Copywriting System" in collaboration with Yuan-Liou Publishing. I used Tree-of-Thought prompting technique, integrating Swales’ Move Theory to automate the generation of structurally persuasive copy. By implementing a dual-evaluation loop—combining LLM self-correction with an XGBoost-based predictive model—the system generates high-conversion marketing content that aligns with both creative excellence and data-driven marketability.
 
 ## Context & Objective
 
@@ -20,18 +13,6 @@ I developed an "Intelligent Book Marketing Copywriting System" in collaboration 
     * Using data-driven methods (ToT, predictive models) to evaluate and refine copy.
     
     * Strengthening the brand story and its connection with consumers.
-
-## My Role
-
-As the primary developer and tester for this prototype, I was responsible for implementing the core system and validating its complex AI workflow. My key contributions include:
-
-* **Prototype Development:** Built the functional proof-of-concept (PoC), architecting the entire end-to-end pipeline from book input to final copy generation.
-
-* **ToT Implementation:** Wrote the Python scripts to engineer the ToT prompting structure. This involved designing the multi-step generation, evaluation, and selection logic.
-
-* **System Integration:** Coded the integration between the core Large Language Model (LLM) and the "Hot-Selling Prediction Model" to create an automated evaluation loop.
-
-* **Testing & Validation:** Conducted tests on the system's output, comparing the AI-generated copy against linguistic structures (Swales' "move" theory) and expert criteria.
 
 ## System Architecture & Flow
 
@@ -73,6 +54,20 @@ The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framew
 
 * **Output (Final Marketing Copy):** The system outputs a highly refined, structurally sound, and market-tested piece of marketing copy.
 
+
+## My Role
+
+As the primary developer and tester for this prototype, I was responsible for implementing the core system and validating its complex AI workflow. My key contributions include:
+
+* **Prototype Development:** Built the functional proof-of-concept (PoC), architecting the entire end-to-end pipeline from book input to final copy generation.
+
+* **ToT Implementation:** Wrote the Python scripts to engineer the ToT prompting structure. This involved designing the multi-step generation, evaluation, and selection logic.
+
+* **System Integration:** Coded the integration between the core Large Language Model (LLM) and the "Hot-Selling Prediction Model" to create an automated evaluation loop.
+
+* **Testing & Validation:** Conducted tests on the system's output, comparing the AI-generated copy against linguistic structures (Swales' "move" theory) and expert criteria.
+
+
 ## Key Highlights
 
 * **ToT Framework:** This is the project's main highlight. Instead of basic prompting, this system uses a deliberate, branching logic (generate, evaluate, select) to achieve superior creative and strategic output.
@@ -88,3 +83,7 @@ The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framew
 * **Core Models:** LLMs
 
 * **Core Techniques:** ToT Prompt Engineering, Predictive Modeling
+
+## A Note on This Repository
+
+Please note that this project was developed as part of a formal, collaborative academic program with industry partners. Due to the nature of this partnership, the full source code is not publicly available. This repository serves as a professional portfolio piece to document and showcase the project's conceptual architecture, the AI workflow, and my technical role in its development and testing.
