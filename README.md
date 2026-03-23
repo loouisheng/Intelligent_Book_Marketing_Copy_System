@@ -1,5 +1,3 @@
-# Intelligent Book Marketing Copywriting System
-
 ## Context & Objective
 
 * **Context:** This project was a key component of the "Digital Humanities Interdisciplinary Talent and Smart Leadership Program," developed in collaboration with publishing industry partners (e.g., Yuan-Liou Publishing Co.).
