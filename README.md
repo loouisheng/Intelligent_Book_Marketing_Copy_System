@@ -16,7 +16,7 @@
 
 The core innovation of this system is its use of a Tree-of-Thoughts (ToT) framework, which mimics a human's deliberate creative process of drafting, evaluating, and refining ideas.
 
-<img width="10000" height="1000" alt="文案系統" src="https://github.com/user-attachments/assets/1d5627e2-78e4-4316-bc77-1bae26cf0e4c" />
+<img width="5000" height="2000" alt="文案系統" src="https://github.com/user-attachments/assets/1d5627e2-78e4-4316-bc77-1bae26cf0e4c" />
 
 **System Workflow Explained:**
 
